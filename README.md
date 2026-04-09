@@ -1,4 +1,4 @@
-[![Kaggle](https://img.shields.io/badge/Kaggle-View_Live_Notebook-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/anbudanadithya/bike-sales-classification)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View_Live_Notebook-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/anbudanadithya05/bike-sales-r)
 # 🚲 Bike Sales Business Analytics & Predictive Modeling
 
 ## 📌 Project Overview
